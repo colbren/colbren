@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- Hi, I'm Colbren Fujimoto
+- I'm currently interested in Software Development and Robotics
+- I'm currently learning ROS and localization
+- I'm a Freshman in Computer Engineering
+- I chose this major because I was interested in both computer hardware and software
+- A fun fact about me is: I enjoy traveling and want to visit Korea
+- What do I want to learn from EE 205? I hope to learn how to solve real problems and gain insight into what work you may be doing as a software engineer
+- A book or movie I'd recommend is: How to Win Friends and Influence People by Dale Carnegie
